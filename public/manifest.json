@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Felipecss Extension Example",
+  "description": "This is a sample extension",
+  "version": "1.0",
+  "action": {
+      "default_popup": "index.html",
+      "default_icon": "Logo.png"
+  }
+}
